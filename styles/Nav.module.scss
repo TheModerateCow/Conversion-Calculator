@@ -1,0 +1,11 @@
+.nav {
+	background-color: black;
+	position: absolute;
+	top: 0;
+	width: 100vw;
+	text-align: center;
+
+	&-title {
+		color: white;
+	}
+}
