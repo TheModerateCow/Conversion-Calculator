@@ -1,4 +1,10 @@
 .card {
-	background-color: red;
-	// box-shadow: none|h-offset v-offset blur spread color |inset|initial|inherit;
+	background-color: white;
+	box-shadow: 3px 5px 20px 1px rgb(187, 187, 187); // box-shadow: none|h-offset v-offset blur spread color |inset|initial|inherit;
+	height: 300px;
+	width: 650px;
+	border-radius: 5px;
+	margin: auto;
+	padding: 1rem;
+	border: 0.5px solid #aaaaaa;
 }
