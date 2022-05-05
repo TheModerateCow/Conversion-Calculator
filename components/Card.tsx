@@ -3,8 +3,8 @@ import cardStyles from "../styles/Card.module.scss";
 const Card = () => {
 	return (
 		<div className={cardStyles["card"]}>
-			<button className="dropdown-btn">Hello</button>
-			<div className="dropdown-list">
+			<button className={cardStyles["card-btn"]}>Temperture</button>
+			<div className={cardStyles["card-dropdown"]}>
 				<a href="#">Temperture</a>
 			</div>
 		</div>
