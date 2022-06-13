@@ -6,7 +6,7 @@ const Layout = ({ children }: { children: ReactNode }) => {
 	return (
 		<>
 			<Head>
-				<title>Temperture Conversion</title>
+				<title>Conversion Calculator</title>
 				<meta property="og:title" content="Temperture Conversion" key="title" />
 				<link rel="shortcut icon" href="/favicon.ico" />
 			</Head>
